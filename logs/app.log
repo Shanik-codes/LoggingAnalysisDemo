@@ -1,0 +1,2 @@
+2025-04-27 18:13:11 INFO  LoggingDemo:14 - {"action":"login","userID":"12345","status":"success"}
+2025-04-27 18:18:46 INFO  LoggingDemo:14 - {"action":"login","userID":"12345","status":"success"}
